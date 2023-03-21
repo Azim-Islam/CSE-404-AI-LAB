@@ -1,0 +1,30 @@
+10 15
+Tejturi Bazar -> UAP
+Tejturi Bazar = 23.757262, 90.392418
+K.B. Rail Gate = 23.756152, 90.394041
+Farmgate = 23.758343, 90.390466
+The Daily Star = 23.755619, 90.390917
+SAARC Fountain = 23.750060, 90.393046
+Panthapath Signal = 23.751092, 90.387233
+Karwan Bazar = 23.750377, 90.394330
+Ananda Cinema Hall = 23.756876, 90.389878
+Chourangi Mor = 23.755872, 90.392188
+UAP = 23.755039, 90.389071
+
+Tejturi Bazar -> K.B. Rail Gate -> 0.23
+Tejturi Bazar -> Chourangi Mor -> 0.21
+Tejturi Bazar -> Farmgate -> 0.29
+K.B. Rail Gate -> Chourangi Mor -> 0.28
+K.B. Rail Gate -> Karwan Bazar -> 0.75
+Chourangi Mor -> Karwan Bazar -> 0.7
+Chourangi Mor -> The Daily Star -> 0.24
+Farmgate -> The Daily Star -> 0.4
+Farmgate -> Ananda Cinema Hall -> 0.35
+The Daily Star -> SAARC Fountain -> 0.9
+The Daily Star -> UAP -> 0.27
+SAARC Fountain -> Panthapath Signal -> 0.65
+Panthapath Signal -> UAP -> 0.5
+Karwan Bazar -> SAARC Fountain -> 0.22
+Ananda Cinema Hall -> UAP -> 0.25
+
+
