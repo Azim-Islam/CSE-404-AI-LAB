@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+igraph = "*"
+matplotlib = "*"
+pandas = "*"
+scikit-learn = "*"
+seaborn = "*"
+streamlit = "*"
+statsmodels = "*"
+ffmpeg-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "*"
